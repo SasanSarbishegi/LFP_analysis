@@ -1,5 +1,5 @@
 # LFP_analysis
-we will undertake the analysis of the LFP signal derived from the brain of an anesthetized rat during an olfactory task.
+we undertake the analysis of the LFP signal derived from the brain of an anesthetized rat during an olfactory task.
 The LFP signal that is given to you comprises three distinct channels:\
 1.Hippocampus (HPC)\
 2. Olfactory Tubercle (OT)\
